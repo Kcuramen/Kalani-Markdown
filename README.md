@@ -60,6 +60,11 @@ My Top Ten Songs are:
 |Honey Baby By: Three Plus|Reggae|⭐⭐⭐⭐⭐|This song is also a type of song I would chill to.  |
 
 
+A few photos that represent me are :
+
+![alt text](image-1.png)
+
+
 
 
 
