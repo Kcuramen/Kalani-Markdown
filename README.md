@@ -27,7 +27,7 @@ A perseonal achievevment I have is playing in a World Series and being offered t
 My past experences have influenced me to become a hard and disciplined worker.
 
 || Genre | Rating (⭐⭐⭐⭐⭐) | Reason |
-|-|-|-|-|
+|-|-|-|-|-|
 |The Way of Life: Stick Figure|Reggae|⭐⭐⭐⭐|When I have a walk up song for baseball I would have this song as it.
 |Thyme: Wavvy|Reggae|⭐⭐⭐⭐⭐|This song gives me good vides and this is one of my song I would play if I was practicing.|
 |Choosin' Texas: Ella Langley|Country|⭐⭐⭐|This is still a good song beucase I can just chill with his song.|
