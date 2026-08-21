@@ -1,9 +1,8 @@
 # Kalani-Markdown
-<<<<<<< HEAD
 ## ***Intoduction Paragraph***
 
-=======
-Intoduction Paragraph 
+
+**Intoduction Paragraph**
 
 My name is <u>**Kalani Curameng**</u> & I am in the 10th Grade. 
 
