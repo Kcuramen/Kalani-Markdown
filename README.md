@@ -62,7 +62,6 @@ My Top Ten Songs are:
 
 A few photos that represent me are :
 
-![alt text](image-1.png)
 
 
 
